@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
 import com.gl.crudApplication.bean.CompanyShare;
-import com.gl.crudApplication.bean.Course;
 import com.gl.crudApplication.service.CompanyShareService;
 
 
